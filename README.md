@@ -1,8 +1,6 @@
 # ChillBuddy
 A GPT-Based AI Chatbot for Mental Health Support
 
-# README: ChillBuddy - A GPT-Based AI Chatbot for Mental Health Support
-
 ## Overview
 **ChillBuddy** is a research project that introduces a GPT-based AI chatbot designed to provide mental health support using emotion-aware, empathetic, and cognitive behavioral therapy (CBT) techniques. This chatbot is specifically fine-tuned for Generation Z, ensuring engagement through relatable language and digital communication preferences.
 
