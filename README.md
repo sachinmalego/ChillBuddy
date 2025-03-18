@@ -30,11 +30,7 @@ The chatbot is trained using a variety of datasets, including:
 
 ## Installation and Usage
 ### Requirements
-- Python 3.8+
-- OpenAI API Key
-- TensorFlow/PyTorch
-- Hugging Face Transformers
-- Flask (for chatbot deployment)
+
 
 ### Running the Chatbot
 1. Clone the repository:
