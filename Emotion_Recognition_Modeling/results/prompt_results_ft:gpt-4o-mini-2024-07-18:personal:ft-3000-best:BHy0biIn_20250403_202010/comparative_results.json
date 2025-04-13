@@ -1,0 +1,27 @@
+{
+  "zero-short": {
+    "accuracy": 0.9145,
+    "macro_f1": 0.8709721399729791,
+    "weighted_f1": 0.9144767409390407
+  },
+  "zero-long": {
+    "accuracy": 0.914,
+    "macro_f1": 0.8714597681613862,
+    "weighted_f1": 0.913734337448548
+  },
+  "one-shot": {
+    "accuracy": 0.9145,
+    "macro_f1": 0.8707986811461543,
+    "weighted_f1": 0.9141386505699438
+  },
+  "few-shot": {
+    "accuracy": 0.9145,
+    "macro_f1": 0.8688192284876721,
+    "weighted_f1": 0.9139690266842724
+  },
+  "few-shot-emotionprompt": {
+    "accuracy": 0.908908908908909,
+    "macro_f1": 0.8620804689455767,
+    "weighted_f1": 0.9084712007864107
+  }
+}
